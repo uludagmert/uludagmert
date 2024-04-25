@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Papara Android Kotlin Bootcamp<br>📚 I'm currently learning Kotlin, Python and C++<br>📫 How to reach me: mertuludag2338@gmail.com</p>
+<p align="left">🔭 I’m currently attending Papara Android Kotlin Bootcamp<br>📚 I'm currently learning Kotlin, Python and C++<br>📫 How to reach me: mertuludag2338@gmail.com</p>
 
 ###
 
